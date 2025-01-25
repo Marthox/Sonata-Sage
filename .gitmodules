@@ -4,3 +4,6 @@
 [submodule "Sonata-Sage-Server"]
 	path = Sonata-Sage-Server
 	url = git@github.com:MarthoxGJ/Sonata-Sage-Server.git
+[submodule "Sonata-Sage-Database"]
+	path = Sonata-Sage-Database
+	url = git@github.com:Marthox/Sonata-Sage-Database.git
